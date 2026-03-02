@@ -29,7 +29,7 @@ To view the website locally or make modifications, follow these steps:
 3. Open the `index.html` file in a web browser to view the website.
 
 OR
-To see this website live go to 
+To see this website live go to :  `http://xadeeb.github.io/Portfolio`
 
 ## Contributing
 

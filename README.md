@@ -1,43 +1,61 @@
 # Personal Portfolio Website
 
-This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
+This repository contains the source code for my personal portfolio website, showcasing my work in **DevOps, Cloud Computing, and DevSecOps**. The site is built with HTML, CSS, and JavaScript.
 
 ## Description
 
-The personal portfolio website showcases my skills, projects, and experiences as a web developer. It serves as an online platform to highlight my work and provide information about my background and expertise.
+My portfolio highlights my hands-on experience automating deployments, working with cloud infrastructure, and securing systems — from CI/CD pipelines on AWS to network security tooling. It serves as a central place to explore my projects, technical skills, and background as I work toward a career in DevOps and Platform Engineering.
 
 ## Features
 
-- Home: Introduces myself and provides a brief overview of my skills and interests.
-- About: Details my professional background, education, and relevant experience.
-- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
-- Skills: Lists the programming languages, frameworks, and tools I am proficient in.
-- Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
+- **Home** — Introduces me as a DevOps/DevSecOps aspirant, with a quick overview of my focus areas: automation, cloud infrastructure, and secure deployment practices.
+- **About** — My background as a B.Tech (CSE) graduate, including internships in cybersecurity and hands-on DevOps project work.
+- **Projects** — Deep dives into my technical projects, including:
+  - **Automated Secure CI/CD Deployment Pipeline** — A GitHub Actions workflow that builds a Docker image on every push and deploys it automatically to an AWS EC2 instance, cutting manual deployment time by ~80%.
+  - **AI-Based Phishing Attack Detection System** — A Flask-based URL scanner using heuristic checks to flag unsafe sites (project lead).
+  - **Modular Network Packet Analyzer** — A real-time network sniffer with automated logging for identifying suspicious traffic patterns.
+- **Skills** — A breakdown of my technical toolkit (see below).
+- **Contact** — Ways to reach me, including email and a contact form.
 
 ## Technologies Used
 
-- HTML: Markup language used for structuring the website.
-- CSS: Stylesheet language used for designing and formatting the website.
-- JavaScript: Programming language used for adding interactivity and dynamic features.
+**Frontend (this site):**
+- HTML — structure
+- CSS — styling and layout
+- JavaScript — interactivity
+
+**DevOps & Cloud (featured in my projects):**
+- Linux (Ubuntu, Kali, Parrot OS) — system administration, shell scripting
+- Docker — containerization
+- AWS (EC2, S3, IAM, VPC) — cloud infrastructure
+- Git & GitHub Actions — version control and CI/CD automation
+- Grafana (basics) — monitoring
+
+**Security tooling:**
+- Wireshark, Nmap — network analysis and vulnerability assessment
+- Log analysis and incident response fundamentals
 
 ## Getting Started
 
-To view the website locally or make modifications, follow these steps:
+To view the website locally or make modifications:
 
-1. Clone the repository: `git clone https://github.com/xadeeb/Portfolio/`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/xadeeb/Portfolio/
+   ```
 2. Open the project folder in your preferred code editor.
-3. Open the `index.html` file in a web browser to view the website.
+3. Open `index.html` in a web browser to view the website.
 
-OR
-To see this website live go to :  `http://xadeeb.github.io/Portfolio`
+**Or view it live:** [xadeeb.github.io/Portfolio](http://xadeeb.github.io/Portfolio)
 
 ## Contributing
 
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the `CONTRIBUTING.md` file.
+Suggestions and feedback are welcome. If you'd like to contribute, please follow the guidelines in `CONTRIBUTING.md`.
 
 ## Contact
 
-If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
+Feel free to reach out through the contact form on the site, or directly via email — details are on the Contact page.
 
-Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
+---
 
+*Thanks for checking out my portfolio — I'm always happy to talk DevOps, cloud infrastructure, or security.*
